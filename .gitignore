@@ -1,0 +1,40 @@
+# Segredos e dados de acesso
+.env
+.env.*
+*secret*
+*credential*
+*credencial*
+*password*
+*senha*
+*token*
+*session*
+*cookie*
+client_secret*.json
+credenciais.txt
+
+# Dados locais e arquivos gerados
+__pycache__/
+node_modules/
+downloads/
+**/build/
+**/.gradle/
+**/wrapper/dists/
+*.apk
+*.aab
+*.zip
+*.log
+*.pyc
+*.tmp
+*.bak
+instagram_session.json
+instagram_baixados.json
+contas.json
+usuarios.json
+log-acessos.csv
+
+# IDE e sistema
+.idea/
+.vscode/settings.json
+local.properties
+Thumbs.db
+desktop.ini
